@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650946994 source:c:\users\arnav mathur\desktop\cse 474\c-prog-02\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"functions.h"
+
+1651860652 c:\users\arnav mathur\desktop\cse 474\c-prog-02\functions.h
+	<stdio.h>
+	<stdint.h>
+
+1651862911 source:c:\users\arnav mathur\desktop\cse 474\c-prog-02\functions.c
+	"functions.h"
+
