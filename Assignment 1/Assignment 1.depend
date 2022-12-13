@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649742051 source:c:\users\arnav mathur\desktop\cse 474\assignment 1\c_asgn01_empty.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+
